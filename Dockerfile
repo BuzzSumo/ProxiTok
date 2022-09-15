@@ -1,1 +1,1 @@
-FROM quay.io/pussthecatorg/proxitok
+FROM quay.io/pussthecatorg/proxitok:latest
